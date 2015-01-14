@@ -1,0 +1,1334 @@
+Doing classification
+--------------------
+data:		pacman
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	100
+Extracting features...
+Training...
+Starting iteration  0 ...
+{'foodCount': 96}
+{'foodCount': 97}
+{'foodCount': 96}
+Stop
+{'foodCount': 95}
+{'foodCount': 96}
+{'foodCount': 96}
+East
+{'foodCount': 94}
+{'foodCount': 95}
+{'foodCount': 95}
+East
+{'foodCount': 94}
+{'foodCount': 94}
+{'foodCount': 93}
+East
+{'foodCount': 93}
+{'foodCount': 92}
+{'foodCount': 93}
+Stop
+{'foodCount': 91}
+{'foodCount': 92}
+{'foodCount': 91}
+{'foodCount': 91}
+{'foodCount': 92}
+Stop
+{'foodCount': 90}
+{'foodCount': 91}
+{'foodCount': 91}
+East
+{'foodCount': 89}
+{'foodCount': 90}
+{'foodCount': 90}
+{'foodCount': 89}
+East
+{'foodCount': 89}
+{'foodCount': 89}
+{'foodCount': 88}
+East
+{'foodCount': 88}
+{'foodCount': 87}
+{'foodCount': 88}
+Stop
+{'foodCount': 86}
+{'foodCount': 87}
+{'foodCount': 86}
+{'foodCount': 86}
+{'foodCount': 87}
+Stop
+{'foodCount': 85}
+{'foodCount': 86}
+{'foodCount': 86}
+East
+{'foodCount': 85}
+{'foodCount': 85}
+{'foodCount': 84}
+{'foodCount': 84}
+East
+{'foodCount': 84}
+{'foodCount': 83}
+{'foodCount': 84}
+Stop
+{'foodCount': 83}
+{'foodCount': 82}
+{'foodCount': 83}
+Stop
+{'foodCount': 82}
+{'foodCount': 82}
+{'foodCount': 82}
+North
+{'foodCount': 82}
+{'foodCount': 81}
+{'foodCount': 82}
+Stop
+{'foodCount': 81}
+{'foodCount': 81}
+{'foodCount': 80}
+West
+{'foodCount': 80}
+{'foodCount': 80}
+{'foodCount': 79}
+West
+{'foodCount': 79}
+{'foodCount': 79}
+{'foodCount': 78}
+West
+{'foodCount': 78}
+{'foodCount': 78}
+{'foodCount': 77}
+North
+{'foodCount': 76}
+{'foodCount': 77}
+{'foodCount': 76}
+{'foodCount': 77}
+Stop
+{'foodCount': 76}
+{'foodCount': 76}
+{'foodCount': 75}
+West
+{'foodCount': 75}
+{'foodCount': 75}
+{'foodCount': 74}
+{'foodCount': 74}
+{'foodCount': 74}
+West
+{'foodCount': 74}
+{'foodCount': 74}
+{'foodCount': 73}
+West
+{'foodCount': 73}
+{'foodCount': 73}
+{'foodCount': 72}
+West
+{'foodCount': 72}
+{'foodCount': 72}
+{'foodCount': 71}
+{'foodCount': 72}
+West
+{'foodCount': 71}
+{'foodCount': 71}
+{'foodCount': 70}
+{'foodCount': 71}
+West
+{'foodCount': 70}
+{'foodCount': 70}
+{'foodCount': 69}
+West
+{'foodCount': 69}
+{'foodCount': 69}
+{'foodCount': 68}
+West
+{'foodCount': 68}
+{'foodCount': 68}
+{'foodCount': 67}
+{'foodCount': 67}
+{'foodCount': 67}
+West
+{'foodCount': 67}
+{'foodCount': 67}
+{'foodCount': 66}
+West
+{'foodCount': 66}
+{'foodCount': 66}
+{'foodCount': 65}
+{'foodCount': 65}
+West
+{'foodCount': 65}
+{'foodCount': 65}
+{'foodCount': 64}
+West
+{'foodCount': 64}
+{'foodCount': 64}
+{'foodCount': 63}
+North
+{'foodCount': 62}
+{'foodCount': 63}
+{'foodCount': 62}
+{'foodCount': 63}
+{'foodCount': 62}
+Stop
+{'foodCount': 61}
+{'foodCount': 62}
+{'foodCount': 62}
+East
+{'foodCount': 60}
+{'foodCount': 61}
+{'foodCount': 61}
+East
+{'foodCount': 60}
+{'foodCount': 60}
+{'foodCount': 59}
+{'foodCount': 59}
+East
+{'foodCount': 59}
+{'foodCount': 59}
+{'foodCount': 58}
+North
+{'foodCount': 57}
+{'foodCount': 58}
+{'foodCount': 57}
+{'foodCount': 58}
+{'foodCount': 57}
+Stop
+{'foodCount': 56}
+{'foodCount': 57}
+{'foodCount': 57}
+East
+{'foodCount': 55}
+{'foodCount': 56}
+{'foodCount': 56}
+East
+{'foodCount': 54}
+{'foodCount': 55}
+{'foodCount': 55}
+East
+{'foodCount': 53}
+{'foodCount': 54}
+{'foodCount': 54}
+East
+{'foodCount': 52}
+{'foodCount': 53}
+{'foodCount': 53}
+East
+{'foodCount': 52}
+{'foodCount': 52}
+{'foodCount': 52}
+West
+{'foodCount': 52}
+{'foodCount': 52}
+{'foodCount': 52}
+{'foodCount': 51}
+{'foodCount': 52}
+West
+{'foodCount': 51}
+{'foodCount': 50}
+{'foodCount': 51}
+Stop
+{'foodCount': 49}
+{'foodCount': 50}
+{'foodCount': 49}
+{'foodCount': 50}
+Stop
+{'foodCount': 48}
+{'foodCount': 49}
+{'foodCount': 49}
+East
+{'foodCount': 48}
+{'foodCount': 48}
+{'foodCount': 48}
+West
+{'foodCount': 48}
+{'foodCount': 48}
+{'foodCount': 48}
+{'foodCount': 47}
+{'foodCount': 48}
+West
+{'foodCount': 47}
+{'foodCount': 46}
+{'foodCount': 47}
+Stop
+{'foodCount': 46}
+{'foodCount': 46}
+{'foodCount': 46}
+East
+{'foodCount': 46}
+{'foodCount': 46}
+{'foodCount': 46}
+{'foodCount': 46}
+West
+{'foodCount': 46}
+{'foodCount': 46}
+{'foodCount': 46}
+West
+{'foodCount': 46}
+{'foodCount': 46}
+{'foodCount': 46}
+{'foodCount': 45}
+{'foodCount': 45}
+West
+{'foodCount': 45}
+{'foodCount': 44}
+{'foodCount': 45}
+Stop
+{'foodCount': 44}
+{'foodCount': 43}
+{'foodCount': 44}
+Stop
+{'foodCount': 43}
+{'foodCount': 43}
+{'foodCount': 42}
+West
+{'foodCount': 42}
+{'foodCount': 42}
+{'foodCount': 41}
+West
+{'foodCount': 41}
+{'foodCount': 41}
+{'foodCount': 40}
+West
+{'foodCount': 40}
+{'foodCount': 40}
+{'foodCount': 39}
+West
+{'foodCount': 39}
+{'foodCount': 39}
+{'foodCount': 38}
+West
+{'foodCount': 38}
+{'foodCount': 38}
+{'foodCount': 37}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 36}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+East
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+North
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 36}
+West
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+North
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+West
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+North
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+West
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+West
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 35}
+West
+{'foodCount': 35}
+{'foodCount': 35}
+{'foodCount': 34}
+North
+{'foodCount': 33}
+{'foodCount': 34}
+{'foodCount': 34}
+Stop
+{'foodCount': 32}
+{'foodCount': 33}
+{'foodCount': 33}
+East
+{'foodCount': 31}
+{'foodCount': 32}
+{'foodCount': 32}
+East
+{'foodCount': 31}
+{'foodCount': 31}
+{'foodCount': 30}
+East
+{'foodCount': 30}
+{'foodCount': 29}
+{'foodCount': 30}
+Stop
+{'foodCount': 29}
+{'foodCount': 28}
+{'foodCount': 29}
+Stop
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+North
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+North
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+West
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+West
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+West
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+West
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+West
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+North
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+West
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+North
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+North
+Starting iteration  1 ...
+{'foodCount': 96}
+{'foodCount': 97}
+{'foodCount': 96}
+Stop
+{'foodCount': 95}
+{'foodCount': 96}
+{'foodCount': 96}
+East
+{'foodCount': 94}
+{'foodCount': 95}
+{'foodCount': 95}
+East
+{'foodCount': 94}
+{'foodCount': 94}
+{'foodCount': 93}
+East
+{'foodCount': 93}
+{'foodCount': 92}
+{'foodCount': 93}
+Stop
+{'foodCount': 91}
+{'foodCount': 92}
+{'foodCount': 91}
+{'foodCount': 91}
+{'foodCount': 92}
+Stop
+{'foodCount': 90}
+{'foodCount': 91}
+{'foodCount': 91}
+East
+{'foodCount': 89}
+{'foodCount': 90}
+{'foodCount': 90}
+{'foodCount': 89}
+East
+{'foodCount': 89}
+{'foodCount': 89}
+{'foodCount': 88}
+East
+{'foodCount': 88}
+{'foodCount': 87}
+{'foodCount': 88}
+Stop
+{'foodCount': 86}
+{'foodCount': 87}
+{'foodCount': 86}
+{'foodCount': 86}
+{'foodCount': 87}
+Stop
+{'foodCount': 85}
+{'foodCount': 86}
+{'foodCount': 86}
+East
+{'foodCount': 85}
+{'foodCount': 85}
+{'foodCount': 84}
+{'foodCount': 84}
+East
+{'foodCount': 84}
+{'foodCount': 83}
+{'foodCount': 84}
+Stop
+{'foodCount': 83}
+{'foodCount': 82}
+{'foodCount': 83}
+Stop
+{'foodCount': 82}
+{'foodCount': 82}
+{'foodCount': 82}
+North
+{'foodCount': 82}
+{'foodCount': 81}
+{'foodCount': 82}
+Stop
+{'foodCount': 81}
+{'foodCount': 81}
+{'foodCount': 80}
+West
+{'foodCount': 80}
+{'foodCount': 80}
+{'foodCount': 79}
+West
+{'foodCount': 79}
+{'foodCount': 79}
+{'foodCount': 78}
+West
+{'foodCount': 78}
+{'foodCount': 78}
+{'foodCount': 77}
+North
+{'foodCount': 76}
+{'foodCount': 77}
+{'foodCount': 76}
+{'foodCount': 77}
+Stop
+{'foodCount': 76}
+{'foodCount': 76}
+{'foodCount': 75}
+West
+{'foodCount': 75}
+{'foodCount': 75}
+{'foodCount': 74}
+{'foodCount': 74}
+{'foodCount': 74}
+West
+{'foodCount': 74}
+{'foodCount': 74}
+{'foodCount': 73}
+West
+{'foodCount': 73}
+{'foodCount': 73}
+{'foodCount': 72}
+West
+{'foodCount': 72}
+{'foodCount': 72}
+{'foodCount': 71}
+{'foodCount': 72}
+West
+{'foodCount': 71}
+{'foodCount': 71}
+{'foodCount': 70}
+{'foodCount': 71}
+West
+{'foodCount': 70}
+{'foodCount': 70}
+{'foodCount': 69}
+West
+{'foodCount': 69}
+{'foodCount': 69}
+{'foodCount': 68}
+West
+{'foodCount': 68}
+{'foodCount': 68}
+{'foodCount': 67}
+{'foodCount': 67}
+{'foodCount': 67}
+West
+{'foodCount': 67}
+{'foodCount': 67}
+{'foodCount': 66}
+West
+{'foodCount': 66}
+{'foodCount': 66}
+{'foodCount': 65}
+{'foodCount': 65}
+West
+{'foodCount': 65}
+{'foodCount': 65}
+{'foodCount': 64}
+West
+{'foodCount': 64}
+{'foodCount': 64}
+{'foodCount': 63}
+North
+{'foodCount': 62}
+{'foodCount': 63}
+{'foodCount': 62}
+{'foodCount': 63}
+{'foodCount': 62}
+Stop
+{'foodCount': 61}
+{'foodCount': 62}
+{'foodCount': 62}
+East
+{'foodCount': 60}
+{'foodCount': 61}
+{'foodCount': 61}
+East
+{'foodCount': 60}
+{'foodCount': 60}
+{'foodCount': 59}
+{'foodCount': 59}
+East
+{'foodCount': 59}
+{'foodCount': 59}
+{'foodCount': 58}
+North
+{'foodCount': 57}
+{'foodCount': 58}
+{'foodCount': 57}
+{'foodCount': 58}
+{'foodCount': 57}
+Stop
+{'foodCount': 56}
+{'foodCount': 57}
+{'foodCount': 57}
+East
+{'foodCount': 55}
+{'foodCount': 56}
+{'foodCount': 56}
+East
+{'foodCount': 54}
+{'foodCount': 55}
+{'foodCount': 55}
+East
+{'foodCount': 53}
+{'foodCount': 54}
+{'foodCount': 54}
+East
+{'foodCount': 52}
+{'foodCount': 53}
+{'foodCount': 53}
+East
+{'foodCount': 52}
+{'foodCount': 52}
+{'foodCount': 52}
+West
+{'foodCount': 52}
+{'foodCount': 52}
+{'foodCount': 52}
+{'foodCount': 51}
+{'foodCount': 52}
+West
+{'foodCount': 51}
+{'foodCount': 50}
+{'foodCount': 51}
+Stop
+{'foodCount': 49}
+{'foodCount': 50}
+{'foodCount': 49}
+{'foodCount': 50}
+Stop
+{'foodCount': 48}
+{'foodCount': 49}
+{'foodCount': 49}
+East
+{'foodCount': 48}
+{'foodCount': 48}
+{'foodCount': 48}
+West
+{'foodCount': 48}
+{'foodCount': 48}
+{'foodCount': 48}
+{'foodCount': 47}
+{'foodCount': 48}
+West
+{'foodCount': 47}
+{'foodCount': 46}
+{'foodCount': 47}
+Stop
+{'foodCount': 46}
+{'foodCount': 46}
+{'foodCount': 46}
+East
+{'foodCount': 46}
+{'foodCount': 46}
+{'foodCount': 46}
+{'foodCount': 46}
+West
+{'foodCount': 46}
+{'foodCount': 46}
+{'foodCount': 46}
+West
+{'foodCount': 46}
+{'foodCount': 46}
+{'foodCount': 46}
+{'foodCount': 45}
+{'foodCount': 45}
+West
+{'foodCount': 45}
+{'foodCount': 44}
+{'foodCount': 45}
+Stop
+{'foodCount': 44}
+{'foodCount': 43}
+{'foodCount': 44}
+Stop
+{'foodCount': 43}
+{'foodCount': 43}
+{'foodCount': 42}
+West
+{'foodCount': 42}
+{'foodCount': 42}
+{'foodCount': 41}
+West
+{'foodCount': 41}
+{'foodCount': 41}
+{'foodCount': 40}
+West
+{'foodCount': 40}
+{'foodCount': 40}
+{'foodCount': 39}
+West
+{'foodCount': 39}
+{'foodCount': 39}
+{'foodCount': 38}
+West
+{'foodCount': 38}
+{'foodCount': 38}
+{'foodCount': 37}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 36}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+East
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+North
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 36}
+West
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+North
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+West
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+North
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+West
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+West
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 35}
+West
+{'foodCount': 35}
+{'foodCount': 35}
+{'foodCount': 34}
+North
+{'foodCount': 33}
+{'foodCount': 34}
+{'foodCount': 34}
+Stop
+{'foodCount': 32}
+{'foodCount': 33}
+{'foodCount': 33}
+East
+{'foodCount': 31}
+{'foodCount': 32}
+{'foodCount': 32}
+East
+{'foodCount': 31}
+{'foodCount': 31}
+{'foodCount': 30}
+East
+{'foodCount': 30}
+{'foodCount': 29}
+{'foodCount': 30}
+Stop
+{'foodCount': 29}
+{'foodCount': 28}
+{'foodCount': 29}
+Stop
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+North
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+North
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+West
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+West
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+West
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+West
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+West
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+North
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+West
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+North
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+North
+Starting iteration  2 ...
+{'foodCount': 96}
+{'foodCount': 97}
+{'foodCount': 96}
+Stop
+{'foodCount': 95}
+{'foodCount': 96}
+{'foodCount': 96}
+East
+{'foodCount': 94}
+{'foodCount': 95}
+{'foodCount': 95}
+East
+{'foodCount': 94}
+{'foodCount': 94}
+{'foodCount': 93}
+East
+{'foodCount': 93}
+{'foodCount': 92}
+{'foodCount': 93}
+Stop
+{'foodCount': 91}
+{'foodCount': 92}
+{'foodCount': 91}
+{'foodCount': 91}
+{'foodCount': 92}
+Stop
+{'foodCount': 90}
+{'foodCount': 91}
+{'foodCount': 91}
+East
+{'foodCount': 89}
+{'foodCount': 90}
+{'foodCount': 90}
+{'foodCount': 89}
+East
+{'foodCount': 89}
+{'foodCount': 89}
+{'foodCount': 88}
+East
+{'foodCount': 88}
+{'foodCount': 87}
+{'foodCount': 88}
+Stop
+{'foodCount': 86}
+{'foodCount': 87}
+{'foodCount': 86}
+{'foodCount': 86}
+{'foodCount': 87}
+Stop
+{'foodCount': 85}
+{'foodCount': 86}
+{'foodCount': 86}
+East
+{'foodCount': 85}
+{'foodCount': 85}
+{'foodCount': 84}
+{'foodCount': 84}
+East
+{'foodCount': 84}
+{'foodCount': 83}
+{'foodCount': 84}
+Stop
+{'foodCount': 83}
+{'foodCount': 82}
+{'foodCount': 83}
+Stop
+{'foodCount': 82}
+{'foodCount': 82}
+{'foodCount': 82}
+North
+{'foodCount': 82}
+{'foodCount': 81}
+{'foodCount': 82}
+Stop
+{'foodCount': 81}
+{'foodCount': 81}
+{'foodCount': 80}
+West
+{'foodCount': 80}
+{'foodCount': 80}
+{'foodCount': 79}
+West
+{'foodCount': 79}
+{'foodCount': 79}
+{'foodCount': 78}
+West
+{'foodCount': 78}
+{'foodCount': 78}
+{'foodCount': 77}
+North
+{'foodCount': 76}
+{'foodCount': 77}
+{'foodCount': 76}
+{'foodCount': 77}
+Stop
+{'foodCount': 76}
+{'foodCount': 76}
+{'foodCount': 75}
+West
+{'foodCount': 75}
+{'foodCount': 75}
+{'foodCount': 74}
+{'foodCount': 74}
+{'foodCount': 74}
+West
+{'foodCount': 74}
+{'foodCount': 74}
+{'foodCount': 73}
+West
+{'foodCount': 73}
+{'foodCount': 73}
+{'foodCount': 72}
+West
+{'foodCount': 72}
+{'foodCount': 72}
+{'foodCount': 71}
+{'foodCount': 72}
+West
+{'foodCount': 71}
+{'foodCount': 71}
+{'foodCount': 70}
+{'foodCount': 71}
+West
+{'foodCount': 70}
+{'foodCount': 70}
+{'foodCount': 69}
+West
+{'foodCount': 69}
+{'foodCount': 69}
+{'foodCount': 68}
+West
+{'foodCount': 68}
+{'foodCount': 68}
+{'foodCount': 67}
+{'foodCount': 67}
+{'foodCount': 67}
+West
+{'foodCount': 67}
+{'foodCount': 67}
+{'foodCount': 66}
+West
+{'foodCount': 66}
+{'foodCount': 66}
+{'foodCount': 65}
+{'foodCount': 65}
+West
+{'foodCount': 65}
+{'foodCount': 65}
+{'foodCount': 64}
+West
+{'foodCount': 64}
+{'foodCount': 64}
+{'foodCount': 63}
+North
+{'foodCount': 62}
+{'foodCount': 63}
+{'foodCount': 62}
+{'foodCount': 63}
+{'foodCount': 62}
+Stop
+{'foodCount': 61}
+{'foodCount': 62}
+{'foodCount': 62}
+East
+{'foodCount': 60}
+{'foodCount': 61}
+{'foodCount': 61}
+East
+{'foodCount': 60}
+{'foodCount': 60}
+{'foodCount': 59}
+{'foodCount': 59}
+East
+{'foodCount': 59}
+{'foodCount': 59}
+{'foodCount': 58}
+North
+{'foodCount': 57}
+{'foodCount': 58}
+{'foodCount': 57}
+{'foodCount': 58}
+{'foodCount': 57}
+Stop
+{'foodCount': 56}
+{'foodCount': 57}
+{'foodCount': 57}
+East
+{'foodCount': 55}
+{'foodCount': 56}
+{'foodCount': 56}
+East
+{'foodCount': 54}
+{'foodCount': 55}
+{'foodCount': 55}
+East
+{'foodCount': 53}
+{'foodCount': 54}
+{'foodCount': 54}
+East
+{'foodCount': 52}
+{'foodCount': 53}
+{'foodCount': 53}
+East
+{'foodCount': 52}
+{'foodCount': 52}
+{'foodCount': 52}
+West
+{'foodCount': 52}
+{'foodCount': 52}
+{'foodCount': 52}
+{'foodCount': 51}
+{'foodCount': 52}
+West
+{'foodCount': 51}
+{'foodCount': 50}
+{'foodCount': 51}
+Stop
+{'foodCount': 49}
+{'foodCount': 50}
+{'foodCount': 49}
+{'foodCount': 50}
+Stop
+{'foodCount': 48}
+{'foodCount': 49}
+{'foodCount': 49}
+East
+{'foodCount': 48}
+{'foodCount': 48}
+{'foodCount': 48}
+West
+{'foodCount': 48}
+{'foodCount': 48}
+{'foodCount': 48}
+{'foodCount': 47}
+{'foodCount': 48}
+West
+{'foodCount': 47}
+{'foodCount': 46}
+{'foodCount': 47}
+Stop
+{'foodCount': 46}
+{'foodCount': 46}
+{'foodCount': 46}
+East
+{'foodCount': 46}
+{'foodCount': 46}
+{'foodCount': 46}
+{'foodCount': 46}
+West
+{'foodCount': 46}
+{'foodCount': 46}
+{'foodCount': 46}
+West
+{'foodCount': 46}
+{'foodCount': 46}
+{'foodCount': 46}
+{'foodCount': 45}
+{'foodCount': 45}
+West
+{'foodCount': 45}
+{'foodCount': 44}
+{'foodCount': 45}
+Stop
+{'foodCount': 44}
+{'foodCount': 43}
+{'foodCount': 44}
+Stop
+{'foodCount': 43}
+{'foodCount': 43}
+{'foodCount': 42}
+West
+{'foodCount': 42}
+{'foodCount': 42}
+{'foodCount': 41}
+West
+{'foodCount': 41}
+{'foodCount': 41}
+{'foodCount': 40}
+West
+{'foodCount': 40}
+{'foodCount': 40}
+{'foodCount': 39}
+West
+{'foodCount': 39}
+{'foodCount': 39}
+{'foodCount': 38}
+West
+{'foodCount': 38}
+{'foodCount': 38}
+{'foodCount': 37}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 36}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+West
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+East
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+North
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 37}
+{'foodCount': 36}
+West
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+North
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+West
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+North
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+West
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+West
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 36}
+{'foodCount': 35}
+West
+{'foodCount': 35}
+{'foodCount': 35}
+{'foodCount': 34}
+North
+{'foodCount': 33}
+{'foodCount': 34}
+{'foodCount': 34}
+Stop
+{'foodCount': 32}
+{'foodCount': 33}
+{'foodCount': 33}
+East
+{'foodCount': 31}
+{'foodCount': 32}
+{'foodCount': 32}
+East
+{'foodCount': 31}
+{'foodCount': 31}
+{'foodCount': 30}
+East
+{'foodCount': 30}
+{'foodCount': 29}
+{'foodCount': 30}
+Stop
+{'foodCount': 29}
+{'foodCount': 28}
+{'foodCount': 29}
+Stop
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+North
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+North
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+West
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+West
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+West
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+West
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+West
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+North
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+West
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+North
+{'foodCount': 28}
+{'foodCount': 28}
+{'foodCount': 28}
+North
+Validating...
+46 correct out of 100 (46.0%).
+Testing...
+47 correct out of 100 (47.0%).
+===================================
+Mistake on example 17

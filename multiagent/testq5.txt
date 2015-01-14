@@ -1,0 +1,848 @@
+
+C:\Users\Smitha\Documents\eclipseworkspace\multiagent>python autograder.py -q q5 --no-graphics 
+Starting on 10-9 at 10:52:53
+
+Question q5
+===========
+
+Pacman emerges victorious! Score: 1359
+Pacman emerges victorious! Score: 1336
+Pacman emerges victorious! Score: 1178
+Pacman emerges victorious! Score: 1179
+Pacman emerges victorious! Score: 1358
+Pacman emerges victorious! Score: 1162
+Pacman emerges victorious! Score: 1370
+Pacman emerges victorious! Score: 971
+Pacman emerges victorious! Score: 1371
+Pacman emerges victorious! Score: 1160
+Average Score: 1244.4
+Scores:        1359.0, 1336.0, 1178.0, 1179.0, 1358.0, 1162.0, 1370.0, 971.0, 1371.0, 1160.0
+Win Rate:      10/10 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
+*** PASS: test_cases\q5\grade-agent.test (6 of 6 points)
+***     1244.4 average score (2 of 2 points)
+***         Grading scheme:
+***          < 500:  0 points
+***         >= 500:  1 points
+***         >= 1000:  2 points
+***     10 games not timed out (1 of 1 points)
+***         Grading scheme:
+***          < 0:  fail
+***         >= 0:  0 points
+***         >= 10:  1 points
+***     10 wins (3 of 3 points)
+***         Grading scheme:
+***          < 1:  fail
+***         >= 1:  1 points
+***         >= 5:  2 points
+***         >= 10:  3 points
+
+### Question q5: 6/6 ###
+
+
+Finished at 10:53:34
+
+Provisional grades
+==================
+Question q5: 6/6
+------------------
+Total: 6/6
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
+
+
+C:\Users\Smitha\Documents\eclipseworkspace\multiagent>python autograder.py -q q5 --no-graphics 
+Starting on 10-9 at 10:53:35
+
+Question q5
+===========
+
+Pacman emerges victorious! Score: 1359
+Pacman emerges victorious! Score: 1336
+Pacman emerges victorious! Score: 1178
+Pacman emerges victorious! Score: 1179
+Pacman emerges victorious! Score: 1358
+Pacman emerges victorious! Score: 1162
+Pacman emerges victorious! Score: 1370
+Pacman emerges victorious! Score: 971
+Pacman emerges victorious! Score: 1371
+Pacman emerges victorious! Score: 1160
+Average Score: 1244.4
+Scores:        1359.0, 1336.0, 1178.0, 1179.0, 1358.0, 1162.0, 1370.0, 971.0, 1371.0, 1160.0
+Win Rate:      10/10 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
+*** PASS: test_cases\q5\grade-agent.test (6 of 6 points)
+***     1244.4 average score (2 of 2 points)
+***         Grading scheme:
+***          < 500:  0 points
+***         >= 500:  1 points
+***         >= 1000:  2 points
+***     10 games not timed out (1 of 1 points)
+***         Grading scheme:
+***          < 0:  fail
+***         >= 0:  0 points
+***         >= 10:  1 points
+***     10 wins (3 of 3 points)
+***         Grading scheme:
+***          < 1:  fail
+***         >= 1:  1 points
+***         >= 5:  2 points
+***         >= 10:  3 points
+
+### Question q5: 6/6 ###
+
+
+Finished at 10:54:17
+
+Provisional grades
+==================
+Question q5: 6/6
+------------------
+Total: 6/6
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
+
+
+C:\Users\Smitha\Documents\eclipseworkspace\multiagent>python autograder.py -q q5 --no-graphics 
+Starting on 10-9 at 10:54:17
+
+Question q5
+===========
+
+Pacman emerges victorious! Score: 1359
+Pacman emerges victorious! Score: 1336
+Pacman emerges victorious! Score: 1178
+Pacman emerges victorious! Score: 1179
+Pacman emerges victorious! Score: 1358
+Pacman emerges victorious! Score: 1162
+Pacman emerges victorious! Score: 1370
+Pacman emerges victorious! Score: 971
+Pacman emerges victorious! Score: 1371
+Pacman emerges victorious! Score: 1160
+Average Score: 1244.4
+Scores:        1359.0, 1336.0, 1178.0, 1179.0, 1358.0, 1162.0, 1370.0, 971.0, 1371.0, 1160.0
+Win Rate:      10/10 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
+*** PASS: test_cases\q5\grade-agent.test (6 of 6 points)
+***     1244.4 average score (2 of 2 points)
+***         Grading scheme:
+***          < 500:  0 points
+***         >= 500:  1 points
+***         >= 1000:  2 points
+***     10 games not timed out (1 of 1 points)
+***         Grading scheme:
+***          < 0:  fail
+***         >= 0:  0 points
+***         >= 10:  1 points
+***     10 wins (3 of 3 points)
+***         Grading scheme:
+***          < 1:  fail
+***         >= 1:  1 points
+***         >= 5:  2 points
+***         >= 10:  3 points
+
+### Question q5: 6/6 ###
+
+
+Finished at 10:55:00
+
+Provisional grades
+==================
+Question q5: 6/6
+------------------
+Total: 6/6
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
+
+
+C:\Users\Smitha\Documents\eclipseworkspace\multiagent>python autograder.py -q q5 --no-graphics 
+Starting on 10-9 at 10:55:01
+
+Question q5
+===========
+
+Pacman emerges victorious! Score: 1359
+Pacman emerges victorious! Score: 1336
+Pacman emerges victorious! Score: 1178
+Pacman emerges victorious! Score: 1179
+Pacman emerges victorious! Score: 1358
+Pacman emerges victorious! Score: 1162
+Pacman emerges victorious! Score: 1370
+Pacman emerges victorious! Score: 971
+Pacman emerges victorious! Score: 1371
+Pacman emerges victorious! Score: 1160
+Average Score: 1244.4
+Scores:        1359.0, 1336.0, 1178.0, 1179.0, 1358.0, 1162.0, 1370.0, 971.0, 1371.0, 1160.0
+Win Rate:      10/10 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
+*** PASS: test_cases\q5\grade-agent.test (6 of 6 points)
+***     1244.4 average score (2 of 2 points)
+***         Grading scheme:
+***          < 500:  0 points
+***         >= 500:  1 points
+***         >= 1000:  2 points
+***     10 games not timed out (1 of 1 points)
+***         Grading scheme:
+***          < 0:  fail
+***         >= 0:  0 points
+***         >= 10:  1 points
+***     10 wins (3 of 3 points)
+***         Grading scheme:
+***          < 1:  fail
+***         >= 1:  1 points
+***         >= 5:  2 points
+***         >= 10:  3 points
+
+### Question q5: 6/6 ###
+
+
+Finished at 10:55:42
+
+Provisional grades
+==================
+Question q5: 6/6
+------------------
+Total: 6/6
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
+
+
+C:\Users\Smitha\Documents\eclipseworkspace\multiagent>python autograder.py -q q5 --no-graphics 
+Starting on 10-9 at 10:55:42
+
+Question q5
+===========
+
+Pacman emerges victorious! Score: 1359
+Pacman emerges victorious! Score: 1336
+Pacman emerges victorious! Score: 1178
+Pacman emerges victorious! Score: 1179
+Pacman emerges victorious! Score: 1358
+Pacman emerges victorious! Score: 1162
+Pacman emerges victorious! Score: 1370
+Pacman emerges victorious! Score: 971
+Pacman emerges victorious! Score: 1371
+Pacman emerges victorious! Score: 1160
+Average Score: 1244.4
+Scores:        1359.0, 1336.0, 1178.0, 1179.0, 1358.0, 1162.0, 1370.0, 971.0, 1371.0, 1160.0
+Win Rate:      10/10 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
+*** PASS: test_cases\q5\grade-agent.test (6 of 6 points)
+***     1244.4 average score (2 of 2 points)
+***         Grading scheme:
+***          < 500:  0 points
+***         >= 500:  1 points
+***         >= 1000:  2 points
+***     10 games not timed out (1 of 1 points)
+***         Grading scheme:
+***          < 0:  fail
+***         >= 0:  0 points
+***         >= 10:  1 points
+***     10 wins (3 of 3 points)
+***         Grading scheme:
+***          < 1:  fail
+***         >= 1:  1 points
+***         >= 5:  2 points
+***         >= 10:  3 points
+
+### Question q5: 6/6 ###
+
+
+Finished at 10:56:23
+
+Provisional grades
+==================
+Question q5: 6/6
+------------------
+Total: 6/6
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
+
+
+C:\Users\Smitha\Documents\eclipseworkspace\multiagent>python autograder.py -q q5 --no-graphics 
+Starting on 10-9 at 10:56:24
+
+Question q5
+===========
+
+Pacman emerges victorious! Score: 1359
+Pacman emerges victorious! Score: 1336
+Pacman emerges victorious! Score: 1178
+Pacman emerges victorious! Score: 1179
+Pacman emerges victorious! Score: 1358
+Pacman emerges victorious! Score: 1162
+Pacman emerges victorious! Score: 1370
+Pacman emerges victorious! Score: 971
+Pacman emerges victorious! Score: 1371
+Pacman emerges victorious! Score: 1160
+Average Score: 1244.4
+Scores:        1359.0, 1336.0, 1178.0, 1179.0, 1358.0, 1162.0, 1370.0, 971.0, 1371.0, 1160.0
+Win Rate:      10/10 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
+*** PASS: test_cases\q5\grade-agent.test (6 of 6 points)
+***     1244.4 average score (2 of 2 points)
+***         Grading scheme:
+***          < 500:  0 points
+***         >= 500:  1 points
+***         >= 1000:  2 points
+***     10 games not timed out (1 of 1 points)
+***         Grading scheme:
+***          < 0:  fail
+***         >= 0:  0 points
+***         >= 10:  1 points
+***     10 wins (3 of 3 points)
+***         Grading scheme:
+***          < 1:  fail
+***         >= 1:  1 points
+***         >= 5:  2 points
+***         >= 10:  3 points
+
+### Question q5: 6/6 ###
+
+
+Finished at 10:57:05
+
+Provisional grades
+==================
+Question q5: 6/6
+------------------
+Total: 6/6
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
+
+
+C:\Users\Smitha\Documents\eclipseworkspace\multiagent>python autograder.py -q q5 --no-graphics 
+Starting on 10-9 at 10:57:05
+
+Question q5
+===========
+
+Pacman emerges victorious! Score: 1359
+Pacman emerges victorious! Score: 1336
+Pacman emerges victorious! Score: 1178
+Pacman emerges victorious! Score: 1179
+Pacman emerges victorious! Score: 1358
+Pacman emerges victorious! Score: 1162
+Pacman emerges victorious! Score: 1370
+Pacman emerges victorious! Score: 971
+Pacman emerges victorious! Score: 1371
+Pacman emerges victorious! Score: 1160
+Average Score: 1244.4
+Scores:        1359.0, 1336.0, 1178.0, 1179.0, 1358.0, 1162.0, 1370.0, 971.0, 1371.0, 1160.0
+Win Rate:      10/10 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
+*** PASS: test_cases\q5\grade-agent.test (6 of 6 points)
+***     1244.4 average score (2 of 2 points)
+***         Grading scheme:
+***          < 500:  0 points
+***         >= 500:  1 points
+***         >= 1000:  2 points
+***     10 games not timed out (1 of 1 points)
+***         Grading scheme:
+***          < 0:  fail
+***         >= 0:  0 points
+***         >= 10:  1 points
+***     10 wins (3 of 3 points)
+***         Grading scheme:
+***          < 1:  fail
+***         >= 1:  1 points
+***         >= 5:  2 points
+***         >= 10:  3 points
+
+### Question q5: 6/6 ###
+
+
+Finished at 10:57:46
+
+Provisional grades
+==================
+Question q5: 6/6
+------------------
+Total: 6/6
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
+
+
+C:\Users\Smitha\Documents\eclipseworkspace\multiagent>python autograder.py -q q5 --no-graphics 
+Starting on 10-9 at 10:57:47
+
+Question q5
+===========
+
+Pacman emerges victorious! Score: 1359
+Pacman emerges victorious! Score: 1336
+Pacman emerges victorious! Score: 1178
+Pacman emerges victorious! Score: 1179
+Pacman emerges victorious! Score: 1358
+Pacman emerges victorious! Score: 1162
+Pacman emerges victorious! Score: 1370
+Pacman emerges victorious! Score: 971
+Pacman emerges victorious! Score: 1371
+Pacman emerges victorious! Score: 1160
+Average Score: 1244.4
+Scores:        1359.0, 1336.0, 1178.0, 1179.0, 1358.0, 1162.0, 1370.0, 971.0, 1371.0, 1160.0
+Win Rate:      10/10 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
+*** PASS: test_cases\q5\grade-agent.test (6 of 6 points)
+***     1244.4 average score (2 of 2 points)
+***         Grading scheme:
+***          < 500:  0 points
+***         >= 500:  1 points
+***         >= 1000:  2 points
+***     10 games not timed out (1 of 1 points)
+***         Grading scheme:
+***          < 0:  fail
+***         >= 0:  0 points
+***         >= 10:  1 points
+***     10 wins (3 of 3 points)
+***         Grading scheme:
+***          < 1:  fail
+***         >= 1:  1 points
+***         >= 5:  2 points
+***         >= 10:  3 points
+
+### Question q5: 6/6 ###
+
+
+Finished at 10:58:28
+
+Provisional grades
+==================
+Question q5: 6/6
+------------------
+Total: 6/6
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
+
+
+C:\Users\Smitha\Documents\eclipseworkspace\multiagent>python autograder.py -q q5 --no-graphics 
+Starting on 10-9 at 10:58:28
+
+Question q5
+===========
+
+Pacman emerges victorious! Score: 1359
+Pacman emerges victorious! Score: 1336
+Pacman emerges victorious! Score: 1178
+Pacman emerges victorious! Score: 1179
+Pacman emerges victorious! Score: 1358
+Pacman emerges victorious! Score: 1162
+Pacman emerges victorious! Score: 1370
+Pacman emerges victorious! Score: 971
+Pacman emerges victorious! Score: 1371
+Pacman emerges victorious! Score: 1160
+Average Score: 1244.4
+Scores:        1359.0, 1336.0, 1178.0, 1179.0, 1358.0, 1162.0, 1370.0, 971.0, 1371.0, 1160.0
+Win Rate:      10/10 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
+*** PASS: test_cases\q5\grade-agent.test (6 of 6 points)
+***     1244.4 average score (2 of 2 points)
+***         Grading scheme:
+***          < 500:  0 points
+***         >= 500:  1 points
+***         >= 1000:  2 points
+***     10 games not timed out (1 of 1 points)
+***         Grading scheme:
+***          < 0:  fail
+***         >= 0:  0 points
+***         >= 10:  1 points
+***     10 wins (3 of 3 points)
+***         Grading scheme:
+***          < 1:  fail
+***         >= 1:  1 points
+***         >= 5:  2 points
+***         >= 10:  3 points
+
+### Question q5: 6/6 ###
+
+
+Finished at 10:59:09
+
+Provisional grades
+==================
+Question q5: 6/6
+------------------
+Total: 6/6
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
+
+
+C:\Users\Smitha\Documents\eclipseworkspace\multiagent>python autograder.py -q q5 --no-graphics 
+Starting on 10-9 at 10:59:10
+
+Question q5
+===========
+
+Pacman emerges victorious! Score: 1359
+Pacman emerges victorious! Score: 1336
+Pacman emerges victorious! Score: 1178
+Pacman emerges victorious! Score: 1179
+Pacman emerges victorious! Score: 1358
+Pacman emerges victorious! Score: 1162
+Pacman emerges victorious! Score: 1370
+Pacman emerges victorious! Score: 971
+Pacman emerges victorious! Score: 1371
+Pacman emerges victorious! Score: 1160
+Average Score: 1244.4
+Scores:        1359.0, 1336.0, 1178.0, 1179.0, 1358.0, 1162.0, 1370.0, 971.0, 1371.0, 1160.0
+Win Rate:      10/10 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
+*** PASS: test_cases\q5\grade-agent.test (6 of 6 points)
+***     1244.4 average score (2 of 2 points)
+***         Grading scheme:
+***          < 500:  0 points
+***         >= 500:  1 points
+***         >= 1000:  2 points
+***     10 games not timed out (1 of 1 points)
+***         Grading scheme:
+***          < 0:  fail
+***         >= 0:  0 points
+***         >= 10:  1 points
+***     10 wins (3 of 3 points)
+***         Grading scheme:
+***          < 1:  fail
+***         >= 1:  1 points
+***         >= 5:  2 points
+***         >= 10:  3 points
+
+### Question q5: 6/6 ###
+
+
+Finished at 10:59:51
+
+Provisional grades
+==================
+Question q5: 6/6
+------------------
+Total: 6/6
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
+
+
+C:\Users\Smitha\Documents\eclipseworkspace\multiagent>python autograder.py -q q5 --no-graphics 
+Starting on 10-9 at 10:59:52
+
+Question q5
+===========
+
+Pacman emerges victorious! Score: 1359
+Pacman emerges victorious! Score: 1336
+Pacman emerges victorious! Score: 1178
+Pacman emerges victorious! Score: 1179
+Pacman emerges victorious! Score: 1358
+Pacman emerges victorious! Score: 1162
+Pacman emerges victorious! Score: 1370
+Pacman emerges victorious! Score: 971
+Pacman emerges victorious! Score: 1371
+Pacman emerges victorious! Score: 1160
+Average Score: 1244.4
+Scores:        1359.0, 1336.0, 1178.0, 1179.0, 1358.0, 1162.0, 1370.0, 971.0, 1371.0, 1160.0
+Win Rate:      10/10 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
+*** PASS: test_cases\q5\grade-agent.test (6 of 6 points)
+***     1244.4 average score (2 of 2 points)
+***         Grading scheme:
+***          < 500:  0 points
+***         >= 500:  1 points
+***         >= 1000:  2 points
+***     10 games not timed out (1 of 1 points)
+***         Grading scheme:
+***          < 0:  fail
+***         >= 0:  0 points
+***         >= 10:  1 points
+***     10 wins (3 of 3 points)
+***         Grading scheme:
+***          < 1:  fail
+***         >= 1:  1 points
+***         >= 5:  2 points
+***         >= 10:  3 points
+
+### Question q5: 6/6 ###
+
+
+Finished at 11:00:34
+
+Provisional grades
+==================
+Question q5: 6/6
+------------------
+Total: 6/6
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
+
+
+C:\Users\Smitha\Documents\eclipseworkspace\multiagent>python autograder.py -q q5 --no-graphics 
+Starting on 10-9 at 11:00:34
+
+Question q5
+===========
+
+Pacman emerges victorious! Score: 1359
+Pacman emerges victorious! Score: 1336
+Pacman emerges victorious! Score: 1178
+Pacman emerges victorious! Score: 1179
+Pacman emerges victorious! Score: 1358
+Pacman emerges victorious! Score: 1162
+Pacman emerges victorious! Score: 1370
+Pacman emerges victorious! Score: 971
+Pacman emerges victorious! Score: 1371
+Pacman emerges victorious! Score: 1160
+Average Score: 1244.4
+Scores:        1359.0, 1336.0, 1178.0, 1179.0, 1358.0, 1162.0, 1370.0, 971.0, 1371.0, 1160.0
+Win Rate:      10/10 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
+*** PASS: test_cases\q5\grade-agent.test (6 of 6 points)
+***     1244.4 average score (2 of 2 points)
+***         Grading scheme:
+***          < 500:  0 points
+***         >= 500:  1 points
+***         >= 1000:  2 points
+***     10 games not timed out (1 of 1 points)
+***         Grading scheme:
+***          < 0:  fail
+***         >= 0:  0 points
+***         >= 10:  1 points
+***     10 wins (3 of 3 points)
+***         Grading scheme:
+***          < 1:  fail
+***         >= 1:  1 points
+***         >= 5:  2 points
+***         >= 10:  3 points
+
+### Question q5: 6/6 ###
+
+
+Finished at 11:01:15
+
+Provisional grades
+==================
+Question q5: 6/6
+------------------
+Total: 6/6
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
+
+
+C:\Users\Smitha\Documents\eclipseworkspace\multiagent>python autograder.py -q q5 --no-graphics 
+Starting on 10-9 at 11:01:16
+
+Question q5
+===========
+
+Pacman emerges victorious! Score: 1359
+Pacman emerges victorious! Score: 1336
+Pacman emerges victorious! Score: 1178
+Pacman emerges victorious! Score: 1179
+Pacman emerges victorious! Score: 1358
+Pacman emerges victorious! Score: 1162
+Pacman emerges victorious! Score: 1370
+Pacman emerges victorious! Score: 971
+Pacman emerges victorious! Score: 1371
+Pacman emerges victorious! Score: 1160
+Average Score: 1244.4
+Scores:        1359.0, 1336.0, 1178.0, 1179.0, 1358.0, 1162.0, 1370.0, 971.0, 1371.0, 1160.0
+Win Rate:      10/10 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
+*** PASS: test_cases\q5\grade-agent.test (6 of 6 points)
+***     1244.4 average score (2 of 2 points)
+***         Grading scheme:
+***          < 500:  0 points
+***         >= 500:  1 points
+***         >= 1000:  2 points
+***     10 games not timed out (1 of 1 points)
+***         Grading scheme:
+***          < 0:  fail
+***         >= 0:  0 points
+***         >= 10:  1 points
+***     10 wins (3 of 3 points)
+***         Grading scheme:
+***          < 1:  fail
+***         >= 1:  1 points
+***         >= 5:  2 points
+***         >= 10:  3 points
+
+### Question q5: 6/6 ###
+
+
+Finished at 11:01:59
+
+Provisional grades
+==================
+Question q5: 6/6
+------------------
+Total: 6/6
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
+
+
+C:\Users\Smitha\Documents\eclipseworkspace\multiagent>python autograder.py -q q5 --no-graphics 
+Starting on 10-9 at 11:02:00
+
+Question q5
+===========
+
+Pacman emerges victorious! Score: 1359
+Pacman emerges victorious! Score: 1336
+Pacman emerges victorious! Score: 1178
+Pacman emerges victorious! Score: 1179
+Pacman emerges victorious! Score: 1358
+Pacman emerges victorious! Score: 1162
+Pacman emerges victorious! Score: 1370
+Pacman emerges victorious! Score: 971
+Pacman emerges victorious! Score: 1371
+Pacman emerges victorious! Score: 1160
+Average Score: 1244.4
+Scores:        1359.0, 1336.0, 1178.0, 1179.0, 1358.0, 1162.0, 1370.0, 971.0, 1371.0, 1160.0
+Win Rate:      10/10 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
+*** PASS: test_cases\q5\grade-agent.test (6 of 6 points)
+***     1244.4 average score (2 of 2 points)
+***         Grading scheme:
+***          < 500:  0 points
+***         >= 500:  1 points
+***         >= 1000:  2 points
+***     10 games not timed out (1 of 1 points)
+***         Grading scheme:
+***          < 0:  fail
+***         >= 0:  0 points
+***         >= 10:  1 points
+***     10 wins (3 of 3 points)
+***         Grading scheme:
+***          < 1:  fail
+***         >= 1:  1 points
+***         >= 5:  2 points
+***         >= 10:  3 points
+
+### Question q5: 6/6 ###
+
+
+Finished at 11:02:41
+
+Provisional grades
+==================
+Question q5: 6/6
+------------------
+Total: 6/6
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
+
+
+C:\Users\Smitha\Documents\eclipseworkspace\multiagent>python autograder.py -q q5 --no-graphics 
+Starting on 10-9 at 11:02:42
+
+Question q5
+===========
+
+Pacman emerges victorious! Score: 1359
+Pacman emerges victorious! Score: 1336
+Pacman emerges victorious! Score: 1178
+Pacman emerges victorious! Score: 1179
+Pacman emerges victorious! Score: 1358
+Pacman emerges victorious! Score: 1162
+Pacman emerges victorious! Score: 1370
+Pacman emerges victorious! Score: 971
+Pacman emerges victorious! Score: 1371
+Pacman emerges victorious! Score: 1160
+Average Score: 1244.4
+Scores:        1359.0, 1336.0, 1178.0, 1179.0, 1358.0, 1162.0, 1370.0, 971.0, 1371.0, 1160.0
+Win Rate:      10/10 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
+*** PASS: test_cases\q5\grade-agent.test (6 of 6 points)
+***     1244.4 average score (2 of 2 points)
+***         Grading scheme:
+***          < 500:  0 points
+***         >= 500:  1 points
+***         >= 1000:  2 points
+***     10 games not timed out (1 of 1 points)
+***         Grading scheme:
+***          < 0:  fail
+***         >= 0:  0 points
+***         >= 10:  1 points
+***     10 wins (3 of 3 points)
+***         Grading scheme:
+***          < 1:  fail
+***         >= 1:  1 points
+***         >= 5:  2 points
+***         >= 10:  3 points
+
+### Question q5: 6/6 ###
+
+
+Finished at 11:03:23
+
+Provisional grades
+==================
+Question q5: 6/6
+------------------
+Total: 6/6
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
+
+
+C:\Users\Smitha\Documents\eclipseworkspace\multiagent>python autograder.py -q q5 --no-graphics 
+Starting on 10-9 at 11:03:24
+
+Question q5
+===========
+
+Pacman emerges victorious! Score: 1359
+Pacman emerges victorious! Score: 1336
+Pacman emerges victorious! Score: 1178
+Pacman emerges victorious! Score: 1179
+Pacman emerges victorious! Score: 1358
+Pacman emerges victorious! Score: 1162
+Pacman emerges victorious! Score: 1370
+Pacman emerges victorious! Score: 971
+Pacman emerges victorious! Score: 1371
+Pacman emerges victorious! Score: 1160
+Average Score: 1244.4
+Scores:        1359.0, 1336.0, 1178.0, 1179.0, 1358.0, 1162.0, 1370.0, 971.0, 1371.0, 1160.0
+Win Rate:      10/10 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
+*** PASS: test_cases\q5\grade-agent.test (6 of 6 points)
+***     1244.4 average score (2 of 2 points)
+***         Grading scheme:
+***          < 500:  0 points
+***         >= 500:  1 points
+***         >= 1000:  2 points
+***     10 games not timed out (1 of 1 points)
+***         Grading scheme:
+***          < 0:  fail
+***         >= 0:  0 points
+***         >= 10:  1 points
+***     10 wins (3 of 3 points)
+***         Grading scheme:
+***          < 1:  fail
+***         >= 1:  1 points
+***         >= 5:  2 points
+***         >= 10:  3 points
+
+### Question q5: 6/6 ###
+
+
+Finished at 11:04:05
+
+Provisional grades
+==================
+Question q5: 6/6
+------------------
+Total: 6/6
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
+
